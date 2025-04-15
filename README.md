@@ -69,12 +69,6 @@ A Pomodoro timer application designed to boost productivity through focused work
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/pratyush1120">
-    <img src="https://streak-stats.demolab.com/?user=pratyush1120&theme=radical" alt="GitHub Streak"/>
-  </a>
-</div>
-
 <br>
 
 ## 🐍 Contribution Snake
