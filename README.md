@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pratyush%20Pandey&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Exploring%20the%20Digital%20Frontier&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Pratyush%20Pandey&fontSize=60&animation=fadeIn&fontAlignY=30&desc=Exploring%20the%20Digital%20Frontier&descAlignY=60&descAlign=50" width="100%"/>
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Student+Developer;Python+Enthusiast;Web+Development;AI+%26+NLP+Explorer;Blockchain+Learner" alt="Typing SVG" />
