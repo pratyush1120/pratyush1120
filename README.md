@@ -61,12 +61,25 @@ A Pomodoro timer application designed to boost productivity through focused work
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyush1120&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush1120&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+  <a href="https://github.com/pratyush1120">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pratyush1120&show_icons=true&theme=radical" alt="GitHub Stats" height="170"/>
+  </a>
+  <a href="https://github.com/pratyush1120">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pratyush1120&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush1120&theme=radical" alt="GitHub Streak"/>
+  <a href="https://github.com/pratyush1120">
+    <img src="https://streak-stats.demolab.com/?user=pratyush1120&theme=radical" alt="GitHub Streak"/>
+  </a>
+</div>
+
+<br>
+
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pratyush1120/pratyush1120/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br>
